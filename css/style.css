@@ -1,0 +1,202 @@
+body {
+    text-align: center;
+   
+background: url(../img/navy.jpg);
+ 
+ background-size: cover;
+ background-position: center-center;
+ width: 99%;
+}
+
+.div1{
+    width: 15%;
+    float: left;
+    
+}
+
+.div2 {
+    width: 70%;
+    float: left;
+    background-color: #ffffff8a;
+    border: 1px solid #1F7398;
+    margin: 30px 0px 0px 0px;
+    height: 400px;
+}
+
+form {
+    display: inline-grid;
+        padding: 41px 0px 8px 0px;
+}
+
+input[type="text"] {
+    padding: 15px 120px 13px 120px;
+    text-align: center;
+    font-size: 19px;
+    background-color: #ffffff52;
+    border: 0px solid white;
+    margin: 10px 0px 10px 0px;
+    box-shadow: 0px 0px 4px -1px #080808
+}
+input[type="text"]:hover{
+    box-shadow: 0px 2px 10px #282923;
+}
+input[type="text" i] {
+    color: #070735;
+    font-weight: 700;
+    font-size: 24px;
+    text-shadow: 1px 1px 2px #FFFFFF;
+}
+input[type="number"]{
+
+    padding: 15px 120px 13px 120px;
+    text-align: center;
+    font-size: 19px;
+    background-color: #ffffff52;
+    border: 0px solid white;
+    box-shadow: 0px 0px 4px -1px #080808;
+}
+input[type="number"]:hover{
+ box-shadow: 0px 2px 10px #282923;
+}
+input[type="number" i] {
+    color: #070735;
+    font-weight: 700;
+    font-size: 24px;
+    text-shadow: 1px 1px 2px #FFFFFF;
+}
+input[type="submit"] {
+    margin: 0px 115px 0px 115px;
+    background-color: #4558b9;
+    border: 0px solid;
+    box-shadow: 0px 2px 7px -1px #000000;
+    padding: 11px 0px 11px 0px;
+}
+input[type="submit"]:hover {
+    background-color: white;
+    transition: 1s;
+    color: black;
+    
+}
+input[type="submit" i] {
+    
+    color: white;
+    font-size: 22px;
+    font-family: fangsong;
+}
+.div3{
+    width: 15%;
+    float: left;
+    
+}
+h1{
+    text-shadow: 0px 1px 1px #000000;
+}
+h2 {
+    float: left;
+    color: white;
+    font-size: 30px;
+    font-family: 'Great Vibes', cursive;
+        padding: 4px 0px 0px 365px;
+}
+
+.btn{
+
+float: left;
+
+padding: 9px 22px 9px 22px;
+
+margin: 90px 0px 45px -704px;
+
+border-radius: 0px 0px 0px 0px;
+
+border: 0px solid;
+}
+a{
+   
+text-decoration: none;
+   
+font-size: 16px;
+   
+color: #17202A;
+}
+
+.btn:hover{
+    background-color: #4558b9;
+    box-shadow: 0px 0px 6px #ffffff;
+    
+}
+a:hover{
+
+color: #FFFFFF;}
+.btn1{
+   
+float: left;
+   
+margin: 90px 0px 0px -551px;
+   
+padding: 9px 22px 9px 22px;
+   
+border-radius: 0px 0px 0px 0px;
+   
+border: 0px solid;
+}
+.btn1:hover{
+
+background-color: #4558B9;
+}
+
+.btn2{
+     float: left;
+     padding: 9px 22px 9px 22px;
+     margin: 90px 0px 0px -381px;
+     border-radius: 0px 0px 0px 0px;
+     border: 0px solid;
+}
+.btn2:hover{
+    background-color: #4558B9;
+
+}
+.btn3{
+      float: left;
+      padding: 9px 22px 9px 22px;
+      border-radius: 0px 0px 0px 0px;
+      border: 0px solid;
+      margin: 90px 0px 0px -194px;
+}
+.btn3:hover{
+    background-color: #4558B9;
+
+}
+.btn4{
+      float: left;
+      padding: 9px 22px 9px 22px;
+      border-radius: 0px 0px 0px 0px;
+      border: 0px solid;
+      margin: 90px 0px 0px -44px;
+}
+.btn4:hover{
+    background-color: #4558B9;
+
+}
+.btn5{
+      float: left;
+      padding: 9px 22px 9px 22px;
+      border-radius: 0px 0px 0px 0px;
+      margin: 90px 0px 0px 19px;
+      border: 0px solid;
+}
+.btn5:hover{
+    background-color: #4558B9;
+
+}
+.btn6{
+      float: left;
+      padding: 9px 22px 9px 22px;
+      border-radius: 0px 0px 0px 0px;
+      border: 0px solid;
+      margin: 90px 0px 0px 17px;
+}
+.btn6:hover{
+    background-color: #4558B9;
+
+}

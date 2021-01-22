@@ -1,0 +1,84 @@
+body{
+background-image: url(../img/usermember.jpg);
+background-size: cover;
+
+width: 99%;
+text-align: center;
+background-repeat: no-repeat;
+}
+.member1{float: left;width: 15%;}
+.member2{float: left;width: 69%;background-color: #ffffff9c;}
+form{
+
+display: inline-grid;
+}
+input[type="text"]{
+
+text-align: center;
+    background-color: #0c496738;
+padding: 13px 70px 11px 70px;
+
+margin: 10px 0px 6px 0px;
+
+font-size: 18px;
+
+color: white;
+
+border: 0px solid;
+box-shadow: 0px 0px 2px #000000;
+}
+input[type="text"]:hover{
+box-shadow: 0px 0px 8px #000000;
+}
+input[type="number"]{
+text-align: center;
+    padding: 13px 70px 11px 70px;
+    margin: 0px 0px 6px 0px;
+    font-size: 18px;
+    color: white;
+    border: 0px solid;
+        background-color: #0c496738;
+    box-shadow: 0px 0px 2px #000000;    
+}
+input[type="number"]:hover{
+
+	box-shadow: 0px 0px 8px #000000;
+}
+input[type="submit"]{text-align: center;
+	padding: 11px 20px 10px 20px;
+	margin: 0px 80px 6px 80px;
+	font-size: 18px;
+	color: white;
+	border: 0px solid;
+	background-color: #0c496738;
+	box-shadow: 0px 0px 5px #000000;}
+input[type="submit"]:hover{
+    box-shadow: 0px 0px 8px #000000;
+    background-color: #00315D;
+}
+.member3{
+float: left;
+width: 15%;
+}
+
+h2{
+	  float: left;
+	  color: white;
+	  font-size: 30px;
+	  font-family: 'Great Vibes', cursive;
+	  padding: 4px 0px 0px 535px;
+}
+h1{
+	
+font-size: 30px;
+}
+.btn1{
+
+float: left;
+
+margin: 85px 0px 50px -167px;
+
+padding: 6px 27px 6px 27px;
+
+font-size: 15px;
+}

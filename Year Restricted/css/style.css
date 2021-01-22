@@ -1,0 +1,100 @@
+body{
+	background-image: url(../img/black.jpg);
+background-size: cover;
+background-position: center;
+width: 99%;
+text-align: center;	
+
+}
+.Restricted1{
+	float: left;
+	width: 15%;
+}
+
+.Restricted2{
+	float: left;
+	width: 69%;
+	background-color: #ffffff59;
+	margin-top: 30px;
+}
+form{
+	
+display: inline-grid;
+}
+input[type="text"]{text-align: center;margin: 52px 0px 6px 0px;padding: 12px 80px 12px 80px;font-size: 21px;background: #122c46;color: white;border: 0px solid;box-shadow: 0px 1px 4px #000000;}
+input[type="text" i]{
+
+}
+input[type="text"]:hover{
+	box-shadow: 0px 1px 8px #000000;
+}
+input[type="number"]{
+    text-align: center;
+    margin: 0px 0px 6px 0px;
+    padding: 12px 80px 12px 80px;
+    font-size: 21px;
+    background: #122c46;
+    color: white;
+    border: 0px solid;
+    box-shadow: 0px 1px 4px #000000;
+}
+input[type="number" i]{
+
+}
+input[type="number"]:hover{
+	box-shadow: 0px 1px 8px #000000;
+}
+input[type="submit"]{
+
+margin: 0px 115px 0px 115px;
+
+font-size: 20px;
+
+padding: 11px 0px 11px 0px;
+
+box-shadow: 0px 0px 4px #000000;
+
+border: 0px solid;
+
+border-radius: 0px 0px 0px 0px;
+
+background-color: #357eaf;
+}
+input[type="submit" i]{
+
+}
+input[type="submit"]:hover{
+	box-shadow: 0px 1px 8px #000000;
+	background-color: #D5D8DC;
+	transition: 2s;
+	color: black;
+}
+input[type="submit" i]:hover{
+
+}
+h1{
+	text-shadow: 1px 1px 0px #000000;
+}
+.Restricted3{
+	float: left;
+	width: 15%;
+
+}
+h2 {
+    float: left;
+    color: white;
+    font-size: 30px;
+    font-family: 'Great Vibes', cursive;
+    margin: 68px 0px 55px 539px;
+}
+
+.btn1{
+	    margin: 133px 0px 22px -200px;
+    float: left;
+    font-size: 20px;
+    padding: 10px 35px 10px 35px;
+    box-shadow: 0px 0px 4px #000000;
+    border: 0px solid;
+    border-radius: 0px 0px 0px 0px;
+    background-color: #357eaf;
+}

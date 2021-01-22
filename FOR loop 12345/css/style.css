@@ -1,0 +1,22 @@
+body{
+	background-image: url(../img/multiple.jpg);
+	background-position: center;
+	background-size: cover;
+	width: 99%;
+	text-align: center;
+}
+.time1{
+	width: 15%;
+	float: left;
+}
+.time2{
+	width: 70%;
+	float: left;
+}
+form{
+
+}
+.time3{
+	float: left;
+	width: 15%;
+}
